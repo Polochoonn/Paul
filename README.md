@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a website projetc
-- 🌱 I’m currently learning Bioinformatics
+- 🔭 I’m currently in my second year of Master's degrees in Bioinformatics
+- 🌱 I’m currently learning Rust
 
 
